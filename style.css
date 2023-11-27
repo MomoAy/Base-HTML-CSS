@@ -1,0 +1,33 @@
+.im1{
+    float: left;
+}
+.im1{
+    width: 100px;
+    height: 75px;
+}
+
+table{
+    border-style: dashed;
+    border-color: white;
+    box-shadow: 20px -25px 20px white;
+    width: 1000px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(Photo/Wallpapers\ Fondos\ de\ Pantalla\ Gamer\ 4K\ para\ Celular\ HD.jpg);
+    background-attachment: scroll;
+}
+.tab2{
+    margin-top: 10cm;
+    margin-left: -26.5cm;
+}
+.tab1{
+    margin-top: 3cm;
+}
+*{
+    font-family: sans-serif ;
+}
+p{
+    background-image: url(photo/Sådan\ indretter\ du\ et\ gamer-rum.png);
+}

@@ -1,0 +1,13 @@
+table{
+    text-align: center;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:focus{
+    background-color: blue;w
+}
+

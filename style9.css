@@ -1,0 +1,62 @@
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body{
+    margin: 0;
+}
+.right-align{
+    margin-left: auto;
+    width:80%;
+    background-color: aliceblue;
+    color:blue;
+    overflow: auto;
+}
+.left-align{
+    margin-right: auto;
+    width:20%;
+    background-color: blue;
+    color:white;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;}
+.sp-1{
+    font-size:70px;
+}
+ img{
+    width:50px
+ }
+ hr{
+    width: 80%;
+ }
+.first{
+    font-size: 100px;
+    margin-bottom : -2%;
+    margin-top: -2%;
+}
+ul{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+li{
+    margin-bottom: 5%;
+}
+.right-container{
+    background-image: url(photo/Home\ Gym.jpg);
+    margin-top:-2%;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+
+}
+.text{
+    margin-top: 5%;
+}
+a{
+    color: white;
+}

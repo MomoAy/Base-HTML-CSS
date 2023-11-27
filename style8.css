@@ -1,0 +1,106 @@
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body{
+    margin: 0;
+}
+.right-align{
+    margin-left: auto;
+    width:80%;
+    background-color: aliceblue;
+    color:blue;
+    overflow: auto;
+}
+.left-align{
+    margin-right: auto;
+    width:20%;
+    background-color: blue;
+    color:white;
+}
+ .container{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+} 
+.sp-1{
+    font-size:70px;
+}
+ img{
+    width:50px
+ }
+ hr{
+    width: 80%;
+ }
+.first{
+    font-size: 100px;
+    margin-bottom : -2%;
+    margin-top: -2%;
+}
+ul{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+li{
+    margin-bottom: 5%;
+}
+.right-container{
+    background-image: url(photo/Home\ Gym.jpg);
+    margin-top:-2%;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    margin: 0;
+}
+.text{
+    margin-top: 5%;
+}
+a{
+    color: white;
+}
+.card{
+    width: 20%;
+    box-shadow: 0px 0px 20px black;
+    float: left;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+.profilSupport{
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 0px 0px 15px blue;
+}
+.profil{
+    width:30%;
+}
+.ligne{
+    color: yellowgreen;
+    width: 30%;
+}
+.SousBigCardSup, .SousBigCardSup2{
+    width: 40%;
+    height: 350px;
+}
+.SousBigCardSup{
+    background-image: url(Photo/home\ gym\ 2.jpg);
+    float: right;
+    margin-right:20px;
+}
+.SousBigCardSup2{
+    background-image: url(Photo/Home\ Gym.jpg);
+}
+.bigCardSup{
+    display: flex;
+    justify-content: center;
+    margin-bottom:50px;
+}
+.photo_salle{
+    width:80%;
+    height: 500px;
+    margin-bottom: 100px;
+    margin-left:150px;
+}

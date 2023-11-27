@@ -1,0 +1,52 @@
+body{
+    background-image: url(photo/The\ Magic\ of\ Gaming\ Symbols\ -\ Gamer\ Print\ -\ D4\ -\ 11x17.jpg);
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 500px;
+    height: 200px;
+    border-radius: 2px;
+    background-color: palegreen;
+    border-top: 1px solid rgb(125, 125, 125);
+    border-left: 1px solid rgb(125, 125, 125);
+    border-right: 1px solid rgb(125, 125, 125) ;
+    border-bottom: 1px solid rgb(125, 125, 125) ;
+
+}
+.ll-1{
+    margin-left: 2.5cm;
+}
+.ll-2{
+    margin-left: 3cm;
+    width: 100px;
+    background: linear-gradient(to right, mintcream, palegreen);
+}
+input{
+    border-radius: 30px;
+}
+.l-1{
+    margin-left: -6.5cm;
+}
+.l-2{
+    margin-left: -6.5cm;
+    width: 100px;
+    background: linear-gradient(to right, mintcream, palegreen);
+}
+*{
+    font-family: verdana;
+}
+h2,u{
+    color: aliceblue;
+}
+div{
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background: linear-gradient(to top, palegreen, mintcream);
+    margin:  0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 1cm;
+    backdrop-filter: blur(200px);
+}
